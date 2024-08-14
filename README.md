@@ -1,2 +1,1 @@
-# 1st-class
-first session
+this file is a firdst file
